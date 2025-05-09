@@ -67,7 +67,6 @@ View previous logs? (y/n)
 
 Build a daily habit of learning and reflection. Over time, you'll have a personal log of growth — one line at a time.
 
-```
 
 ---
 
