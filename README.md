@@ -1,6 +1,4 @@
----
 
-````markdown
 # 📓 Daily Question Logger
 
 **Daily Question Logger** is a simple C# console application that prompts you to reflect on your day by answering:
@@ -71,5 +69,5 @@ Build a daily habit of learning and reflection. Over time, you'll have a persona
 
 ```
 
+---
 
-```
